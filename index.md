@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Where do foreigners like to go when they come to China?
 
 You can use the [editor on GitHub](https://github.com/clxHarris/clxHarris.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
